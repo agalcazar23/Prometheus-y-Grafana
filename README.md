@@ -4,7 +4,7 @@
 
 [0.- Introducción a Prometheus y Grafana.](0.md)
 
-1.- Instalación de Prometheus
+[1.- Instalación de Prometheus](1.md)
 
 2.- Instalación de Grafana.
 
