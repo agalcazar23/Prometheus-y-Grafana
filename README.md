@@ -2,7 +2,7 @@
 
 ## Índice
 
-0.- Introducción a Prometheus y Grafana.
+[0.- Introducción a Prometheus y Grafana.](0.md)
 
 1.- Instalación de Prometheus
 
