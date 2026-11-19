@@ -8,7 +8,7 @@
 
 [2.- Instalación de Grafana.](2.md)
 
-3.- Añadir Prometheus como Data Source.
+[3.- Añadir Prometheus como Data Source.](3.md)
 
 4.- Monitorización de varios servidores.
 
