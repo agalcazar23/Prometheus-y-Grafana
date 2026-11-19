@@ -6,7 +6,7 @@
 
 [1.- Instalación de Prometheus](1.md)
 
-2.- Instalación de Grafana.
+[2.- Instalación de Grafana.](2.md)
 
 3.- Añadir Prometheus como Data Source.
 
